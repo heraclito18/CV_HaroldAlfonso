@@ -1,7 +1,7 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
+## Nombre Completo  Harold Smith Alfonso Moreno
 **Profesión:** _Tu profesión_
 
 ## 📞 Contacto
