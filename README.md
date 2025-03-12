@@ -1,8 +1,10 @@
-# CV_Example
+# CV Harold Alfonso
 # Hoja de Vida
 
 ## Harold Smith Alfonso Moreno
-**Profesión:** _Tecnico en logistica_
+**Profesión:** _Integracion en operaciones logisticas_
+
+Soy estudiante del programa de Integración en Operaciones Logísticas , digitalización , **gestióngestión de archivos y gestión operativa .alta capacidad organizativa , **meticulosa atención al detalle y habilidad para continuar un continuo aprendizaje.
 
 ## 📞 Contacto
 - **Teléfono:**
