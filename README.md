@@ -2,26 +2,26 @@
 # Hoja de Vida
 
 ## Nombre Completo  Harold Smith Alfonso Moreno
-**Profesión:** _Tu profesión_
+**Profesión:** _Tecnico en logistica_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **Teléfono:**
+- **Email:** [harold2503@hotmail.com](alfonsoharold74@gmail.com)
+- **LinkedIn:** [www.linkedin.com/in/harold-alfonso-818672351]
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### **S&A SERVICIOS Y ASESORIAS ** _(05-2019 - 06-2019)_
+- Auxiliar nivel 1 / Paquetería: Organicé e ingresé al sistema diferente paquetería, mercancía y mensajería internacional.
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **SERDEMPO S A S ** _(07-2018 - 08-2020)_
+- Auxiliar operativo: Realice el alistamiento, organización y clasificación de la papelería para la consulta anticorrupción.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **Servicio Nacional de aprendizaje** _(11-2024 - 02-2026)_
+- Tecnico en integración de operaciones logisticas.
 
 ## 💡 Habilidades
-- **Habilidad 1**
+- **Ingles basico**
 - **Habilidad 2**
 - **Habilidad 3**
 
