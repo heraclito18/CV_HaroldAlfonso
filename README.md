@@ -1,7 +1,8 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo  Harold Smith Alfonso Moreno
+## Nombre Completo  
+Harold Smith Alfonso Moreno
 **Profesión:** _Tecnico en logistica_
 
 ## 📞 Contacto
